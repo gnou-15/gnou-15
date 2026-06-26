@@ -1,16 +1,15 @@
-## Hi there 👋
+**Hey there!👋**
 
-<!--
-**gnou-15/gnou-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dan from the Philippines.
 
-Here are some ideas to get you started:
+Straightforward, highly analytical, and initiative-driven.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I find everything I do to be meaningful, that's why I don't waste time on half-baked projects. 
+
+I care equally about UI/UX and data security. I should be the one convinced first on using my project. My favorite project is [Resora](https://www.nezer-resora.com/). 
+
+Fun Facts:
+  * I'm a Christian
+  * I love music and I'm also a musician. 
+  * How I Met Your Mother is my favorite show. 
+  * **Hobbies**: drinking coffee(it's a daily must), reading, playing dota
