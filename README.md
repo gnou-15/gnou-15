@@ -2,7 +2,7 @@
 
 I'm Dan from the Philippines.
 
-Straightforward, highly analytical, and initiative-driven.
+I look at software through an architectural lens—focusing on scalability, design, and end-to-end delivery.
 
 I find everything I do to be meaningful, that's why I don't waste time on half-baked projects. 
 
