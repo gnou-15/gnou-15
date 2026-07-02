@@ -12,7 +12,7 @@ Fun Facts:
   * Coffee is a must-have-everday need.
   * I love music and I'm also a musician. 
   * How I Met Your Mother is my favorite show. 
-  * **Hobbies**: drinking coffee(it's a daily must), reading, playing dota
+  * **Hobbies**: playing Dota, reading, fun-fact #1
 
 #### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
